@@ -1,1 +1,1 @@
-# aegisub-karaeffector
+# Aegisub - KaraEffector
